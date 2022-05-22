@@ -1,0 +1,1 @@
+export { simpleProcess } from './simpleProcess';
