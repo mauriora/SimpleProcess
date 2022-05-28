@@ -1,6 +1,6 @@
 {
   "name": "@mauriora/simpleprocess",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -18,7 +18,7 @@
   },
   "devDependencies": {
     "@mauriora/eslint-config-ts": "0.0.1",
-    "@mauriora/package-tools": "^0.0.10",
+    "@mauriora/package-tools": "^0.1.0",
     "@types/es6-promise": "^3.3.0",
     "@types/node": "14.18.18",
     "@types/webpack-env": "1.17.0",
