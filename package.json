@@ -2,6 +2,10 @@
   "name": "@mauriora/simpleprocess",
   "version": "0.0.4",
   "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/mauriora/SimpleProcess.git"
+  },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
